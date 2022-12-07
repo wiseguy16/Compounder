@@ -11,6 +11,7 @@
 		4A5224122941162E00FCEE6F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5224112941162E00FCEE6F /* ContentView.swift */; };
 		4A5224142941163800FCEE6F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A5224132941163800FCEE6F /* Assets.xcassets */; };
 		4A5224172941163800FCEE6F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A5224162941163800FCEE6F /* Preview Assets.xcassets */; };
+		4A52241E29411B5000FCEE6F /* CompundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A52241D29411B5000FCEE6F /* CompundView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4A5224112941162E00FCEE6F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4A5224132941163800FCEE6F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A5224162941163800FCEE6F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4A52241D29411B5000FCEE6F /* CompundView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompundView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				4A52240F2941162E00FCEE6F /* CompounderApp.swift */,
 				4A5224112941162E00FCEE6F /* ContentView.swift */,
+				4A52241D29411B5000FCEE6F /* CompundView.swift */,
 				4A5224132941163800FCEE6F /* Assets.xcassets */,
 				4A5224152941163800FCEE6F /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A52241E29411B5000FCEE6F /* CompundView.swift in Sources */,
 				4A5224122941162E00FCEE6F /* ContentView.swift in Sources */,
 				4A5224102941162E00FCEE6F /* CompounderApp.swift in Sources */,
 			);
