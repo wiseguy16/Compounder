@@ -15,6 +15,7 @@ struct ContentView: View {
                 .foregroundColor(.accentColor)
             Text("Compounder")
           Text("New title")
+          Text("Third title")
         }
         .padding()
     }
